@@ -11,6 +11,9 @@ Hello rails backend app creates a backend app that is to be consumed with react
 - rails s
 ```
 
+## Link to React App
+[@ReactApp](https://github.com/ekenecf/hello-react-front-end)
+
 ## Built with
 - Ruby 3.1.2 on Rails 7.0.3.1
 - PostgreSQL
